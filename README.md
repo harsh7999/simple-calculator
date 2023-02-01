@@ -44,6 +44,6 @@ print("Result:", result)
   <p>This program does not require any additional dependencies or libraries.</p>
   
   <h2>Contact</h2>
-  <p>If you have any questions or concerns, please feel free to reach out to us.</p>
+  <p>If you have any questions or concerns, please feel free to reach out to me.</p>
 </body>
 </html>
